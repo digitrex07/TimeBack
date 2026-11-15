@@ -1,0 +1,3 @@
+<resources>
+    <string name="service_description">Detects Instagram Reels and YouTube Shorts, exits the clip and shows a reminder. Screen content stays on your phone.</string>
+</resources>
